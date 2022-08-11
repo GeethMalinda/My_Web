@@ -1,55 +1,9 @@
-node_modules/
-package-lock.json
-.env
-.idea/admin-web-portal.iml
+.idea/.gitignore
+.idea/codeStyles/Project.xml
+.idea/codeStyles/codeStyleConfig.xml
 .idea/misc.xml
 .idea/modules.xml
+.idea/sonarlint/issuestore/index.pb
 .idea/vcs.xml
-.idea/workspace.xml
-package.json
-*.log
+.idea/web.iml
 
-# compiled output
-/dist
-/dist-server
-/tmp
-/out-tsc
-
-# dependencies
-/node_modules
-
-# IDEs and editors
-/.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
-
-# IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-
-# misc
-/.sass-cache
-/connect.lock
-/coverage
-/libpeerconnection.log
-npm-debug.log
-yarn-error.log
-testem.log
-/typings
-
-# e2e
-/e2e/*.js
-/e2e/*.map
-
-# System Files
-.DS_Store
-Thumbs.db
-.env
-package-lock.json
